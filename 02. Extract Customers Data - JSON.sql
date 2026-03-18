@@ -11,6 +11,10 @@
 
 -- COMMAND ----------
 
+test Git
+
+-- COMMAND ----------
+
 -- MAGIC %md
 -- MAGIC ### 1. Query Single JSON File
 
